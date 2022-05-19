@@ -8,7 +8,7 @@ while (contadora < 20) {
     contadora++
 }
 
-alert("Verifique o resultado em inspecionar.")
+alert("Veja o resultado em inspecionar.")
 var contadora;
 
 contadora = 0;
@@ -19,4 +19,4 @@ while (contadora < 20) {
     contadora++
 }
 
-alert("Verifique  resultado em inspecionar.");
+alert("Veja o resultado em inspecionar.");

@@ -6,4 +6,4 @@ while (celsius < 110) {
     console.log("Temperatura em Celsius: " + celsius + "°C" + ". Temperatura em Fahrenheit: " + fahrenheit + "°F");
     celsius = celsius + 10;
 }
-alert("Confira o valor da temperatura em inspecionar.");
+alert("Veja o valor da temperatura em inspecionar.");
